@@ -51,15 +51,6 @@ Busco minha primeira oportunidade na área de tecnologia para aplicar o que venh
 
 <br>
 
-### Linguagens mais usadas
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaLimaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/RafaLimaaa)
-
-</div>
-
-<br>
 
 ### Contato
 
